@@ -3,7 +3,7 @@
 import re
 import gzip
 import urllib.request
-from common import get, sitemap_urls, sane_price, valid_ean, first_str, write_jsonl, scrape_urls
+from common import get, sitemap_urls, sane_price, valid_ean, first_str, write_jsonl, scrape_urls, scrape_with_checkpoint
 
 BASE = "https://www.globus-baumarkt.de"
 OUT = "data/latest/globus_de.jsonl"
@@ -60,8 +60,8 @@ def handle(u, html):
     return rows
 
 
-def scrape(limit=None):
-    return scrape_urls(fetch_url_list(limit), handle)
+def scrape(limit=None, deadline=None):
+    return scrape_with_checkpoint("globus_de", fetch_url_list(limit), handle, limit, deadline)
 
 
 if __name__ == "__main__":
