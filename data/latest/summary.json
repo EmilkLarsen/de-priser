@@ -1,9 +1,9 @@
 {
  "date": "2026-10-02",
- "total_rows": 258668,
+ "total_rows": 258674,
  "chains": {
   "globus_de": {
-   "products": 31940,
+   "products": 57236,
    "price_changes": 0,
    "suspicious_changes": 0,
    "expired": 0,
