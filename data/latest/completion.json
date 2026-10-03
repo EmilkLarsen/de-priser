@@ -3,7 +3,7 @@
  "detail": {
   "globus_de": {
    "rows": 93993,
-   "complete": false
+   "complete": true
   },
   "obi_de": {
    "rows": 164737,
