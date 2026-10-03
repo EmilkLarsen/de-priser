@@ -3,11 +3,11 @@
  "total_rows": 258730,
  "chains": {
   "globus_de": {
-   "products": 93834,
+   "products": 93859,
    "price_changes": 0,
    "suspicious_changes": 0,
    "expired": 0,
-   "seconds": 18201.0
+   "seconds": 3940.6
   },
   "obi_de": {
    "products": 164769,
