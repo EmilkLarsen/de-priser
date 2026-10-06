@@ -1,12 +1,12 @@
 {
- "date": "2026-10-04",
+ "date": "2026-10-06",
  "chains": {
   "globus_de": {
-   "products": 93749,
+   "products": 27299,
    "price_changes": 0,
    "suspicious_changes": 0,
    "expired": 0,
-   "seconds": 17302.9
+   "seconds": 18002.1
   }
  }
 }
