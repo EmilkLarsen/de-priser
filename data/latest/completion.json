@@ -1,12 +1,12 @@
 {
- "date": "2026-10-07",
+ "date": "2026-10-08",
  "detail": {
   "globus_de": {
-   "rows": 94318,
-   "complete": true
+   "rows": 94394,
+   "complete": false
   },
   "obi_de": {
-   "rows": 165386,
+   "rows": 165453,
    "complete": false
   }
  }
