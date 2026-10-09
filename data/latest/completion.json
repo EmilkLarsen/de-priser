@@ -2,8 +2,8 @@
  "date": "2026-10-09",
  "detail": {
   "globus_de": {
-   "rows": 95139,
-   "complete": false
+   "rows": 95214,
+   "complete": true
   },
   "obi_de": {
    "rows": 165453,
