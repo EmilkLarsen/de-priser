@@ -7,14 +7,14 @@
    "price_changes": 4,
    "suspicious_changes": 0,
    "expired": 0,
-   "seconds": 18046.7
+   "seconds": 18547.1
   },
   "globus_de": {
-   "products": 95880,
+   "products": 32467,
    "price_changes": 0,
    "suspicious_changes": 0,
-   "expired": 60,
-   "seconds": 12238.3
+   "expired": 0,
+   "seconds": 18004.0
   }
  }
 }
