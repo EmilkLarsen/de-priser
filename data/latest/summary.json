@@ -1,20 +1,20 @@
 {
- "date": "2026-11-13",
- "total_rows": 308681,
+ "date": "2026-11-14",
+ "total_rows": 308767,
  "chains": {
   "obi_de": {
-   "products": 209834,
+   "products": 209940,
    "price_changes": 4,
    "suspicious_changes": 0,
    "expired": 0,
-   "seconds": 18011.3
+   "seconds": 18046.7
   },
   "globus_de": {
-   "products": 70547,
+   "products": 95880,
    "price_changes": 0,
    "suspicious_changes": 0,
-   "expired": 0,
-   "seconds": 18004.4
+   "expired": 60,
+   "seconds": 12238.3
   }
  }
 }
